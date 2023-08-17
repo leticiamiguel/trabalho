@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(102, 121, 231);
+    font-family: 'Courier New', Courier, monospace; 
+}
+header{
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    border-bottom: solid rgb(0, 0, 0);
+}
+div{
+   text-align: left;
+   width: 40%;
+   float: left;
+   margin-top: 100px;
+}
+img{
+    float: right;
+    width: 60%;
+    margin-top: 50px;
+}
+form{
+    margin-top: 10px;
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 35px;
+    font-size: 25px;
+}
+input{
+    width: 30%;
+    border-radius: 20px;
+    display:block ;
+    margin-bottom: 5px;
+}
+.botao{
+    width: 25%;
+    border-radius: 20px;
+    margin-top: 160px;
+}
+.formulario{ 
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
